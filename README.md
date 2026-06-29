@@ -1,119 +1,184 @@
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                    -->
+<!-- ========================================================= -->
+<h1 align="center">Hi 👋, I'm Divyansh Mehta</h1>
+<h3 align="center">
+Financial Analytics • M&A Intelligence • Data Analytics • AI Product Development
+</h3>
 <p align="center">
-
-  <img src="Banner.png" alt="Divyansh Mehta Banner" width="100%">
-
+<a href="https://github.com/divyanshmehta28199902-maker">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Finance-Analytics-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/M&A-Intelligence-6F42C1?style=for-the-badge">
 </p>
-
-<div align="center">
-
-Hi 👋 I’m Divyansh Mehta
-
-Founder & Builder of DealIntel India
-
-Building AI-powered software for SME Mergers & Acquisitions
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Building+DealIntel+India;AI+Powered+M%26A+Intelligence;Finance+%2B+Technology;Next.js+%7C+TypeScript+%7C+PostgreSQL" />
-
-⸻
-
-</div>
 
 ⸻
 
 👨‍💻 About Me
 
-I’m building DealIntel India, an AI-powered M&A Intelligence Platform designed to help investors, business owners, private equity firms, and M&A advisors discover, evaluate, and execute acquisitions in India’s SME ecosystem.
+I enjoy building finance-focused analytics products that combine data analysis, business valuation, and modern software development.
 
-My interests include:
+My work focuses on:
 
-* Financial Technology (FinTech)
-* Mergers & Acquisitions (M&A)
-* Business Valuation
-* AI-Powered Analytics
-* SaaS Product Development
-* Data Analytics & Visualization
+* 📊 Financial Analytics
+* 💼 Mergers & Acquisitions (M&A)
+* 📈 Business Valuation
+* 🏦 Banking Analytics
+* 🤖 AI-powered Financial Intelligence
+* 📊 Interactive Dashboards
+* 🐍 Python Automation
 
 ⸻
 
-🚀 Featured Project
+🚀 Featured Projects
 
-DealIntel India
+🚀 DealIntel India
 
-Institutional-grade M&A Intelligence Platform for Indian SMEs
+AI-powered M&A Intelligence Platform for Indian SMEs
 
-Key Features
+A web platform designed to support investors, business owners, and M&A advisors with deal discovery, valuation, and due diligence workflows.
 
-* AI Deal Marketplace
-* Business Valuation Engine
-* DCF Analysis
-* Comparable Company Analysis
-* Risk Assessment
+Highlights
+
 * Investor Dashboard
-* Seller Dashboard
+* Seller Portal
+* Deal Marketplace
 * Deal Pipeline
-* Financial Analytics
-* Secure Deal Room
+* DCF Valuation Engine
+* Comparable Company Analysis
+* Due Diligence Workspace
+* Role-Based Authentication
+* GitHub Actions CI
 
-Technology Stack
+Tech Stack
 
-Category	Technologies
-Frontend	Next.js, React, TypeScript
-Styling	Tailwind CSS, shadcn/ui
-Backend	Node.js
-Database	PostgreSQL, Prisma
-Charts	Recharts
-Deployment	Replit, GitHub
+Next.js • React • TypeScript • PostgreSQL • Prisma • Tailwind CSS • Node.js
 
-Repository
-
-👉 https://github.com/divyanshmehta28199902-maker/dealintel-india
+🔗 https://github.com/divyanshmehta28199902-maker/dealintel-india
 
 ⸻
 
-🛠 Tech Stack
+🏦 Indian Banking Sector Financial Analysis
 
-Languages
+Comprehensive banking analytics project covering financial performance, asset quality, capital adequacy, and market trends.
 
-Frontend
+Highlights
 
-Backend
+* Banking KPI Dashboard
+* Gross & Net NPA Analysis
+* Capital Adequacy Analysis
+* Profitability Dashboard
+* Stock Performance Dashboard
+* SQL Database
+* Power BI Dashboard
 
-Database
+Tech Stack
 
-⸻
+Python • SQL • Pandas • Power BI • Matplotlib
 
-📈 Current Focus
-
-* 🚀 Launching DealIntel India
-* 🤖 Building AI-powered valuation tools
-* 📊 Improving financial analytics
-* 🔒 Strengthening platform security
-* 📱 Expanding product capabilities
-
-⸻
-
-📊 GitHub Stats
-
-GitHub automatically displays your contribution graph below your profile.
-
-You can also enable GitHub Readme Stats later if you wish.
+🔗 https://github.com/divyanshmehta28199902-maker/indian-banking-sector-analysis
 
 ⸻
 
-🌟 Featured Repository
+💼 Financial Statement Analysis & Valuation Toolkit
 
-⭐ DealIntel India
+A Python-based financial modeling toolkit for equity valuation and financial statement analysis.
 
-An AI-powered M&A Intelligence Platform for the Indian SME ecosystem.
+Highlights
 
-If you’re interested in finance, SaaS, or M&A technology, feel free to explore the project and follow its progress.
+* DCF Valuation
+* Financial Ratio Analysis
+* DuPont Analysis
+* Altman Z-Score
+* Graham Number
+* Excel Automation
+* Professional Financial Reports
+
+Tech Stack
+
+Python • Pandas • NumPy • OpenPyXL • Excel
+
+🔗 https://github.com/divyanshmehta28199902-maker/financial-statement-analysis-toolkit
 
 ⸻
 
-<div align="center">
+🛠 Technical Skills
 
-Thanks for visiting my profile!
+Programming
 
-Building technology for the future of SME acquisitions in India 🇮🇳
+* Python
+* SQL
+* TypeScript
+* JavaScript
 
-</div>
+Data Analytics
+
+* Power BI
+* Excel
+* Pandas
+* NumPy
+* Matplotlib
+
+Finance
+
+* Financial Statement Analysis
+* Business Valuation
+* DCF Modeling
+* Banking Analytics
+* Ratio Analysis
+* M&A Analysis
+
+Web Development
+
+* Next.js
+* React
+* Tailwind CSS
+* PostgreSQL
+* Prisma ORM
+* Node.js
+
+⸻
+
+📚 Currently Learning
+
+* Advanced Financial Modeling
+* Corporate Finance
+* M&A Strategy
+* Banking Analytics
+* AI Applications in Finance
+
+⸻
+
+🎯 Career Interests
+
+I’m interested in opportunities related to:
+
+* Financial Analyst
+* Data Analyst
+* M&A Analyst
+* Investment Banking Analyst
+* Business Intelligence
+* Financial Technology (FinTech)
+
+⸻
+
+📫 Connect With Me
+
+📧 Email
+
+divyanshmehta28@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/divyansh-mehta-93b712283
+
+⸻
+
+<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
+<p align="center">
+If you find my projects interesting, feel free to connect or explore the repositories above.
+</p>
